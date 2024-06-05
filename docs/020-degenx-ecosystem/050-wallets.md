@@ -28,6 +28,7 @@ Our list of multi signature wallets with their purpose. All wallets are whitelis
 | @Weizenstar     | `0x4F7B1825D3ecb6EcB8904780fcd1EBDd948C8dB2` | [(View on snowtrace.io)](https://snowtrace.io/address/0x4F7B1825D3ecb6EcB8904780fcd1EBDd948C8dB2) |
 | @liamcow        | `0x07aF99634174d52098462Ed33C4299dFfC5EFC78` | [(View on snowtrace.io)](https://snowtrace.io/address/0x07aF99634174d52098462Ed33C4299dFfC5EFC78) |
 | @Eric_DEGEN     | `0x740F22aeA9D386342acE47e0b645FC10fB18723f` | [(View on snowtrace.io)](https://snowtrace.io/address/0x740F22aeA9D386342acE47e0b645FC10fB18723f) |
+| @DegenJoker     | `0x235EC0FCFd36612De4fd2c4912C9Cc5f56De06Ba` | [(View on snowtrace.io)](https://snowtrace.io/address/0x235EC0FCFd36612De4fd2c4912C9Cc5f56De06Ba) |
 
 ### Developer Wallet
 
