@@ -25,7 +25,6 @@ Our list of multi signature wallets with their purpose. All wallets are whitelis
 | @DegenDevDaniel | `0x2b79738c27186E52dBEF6C491852f065ee136C33` | [(View on snowtrace.io)](https://snowtrace.io/address/0x2b79738c27186E52dBEF6C491852f065ee136C33) |
 | @sonic_trader   | `0xDEb3c8f2e25f80bd12a652764f31476a827C7E1F` | [(View on snowtrace.io)](https://snowtrace.io/address/0xDEb3c8f2e25f80bd12a652764f31476a827C7E1F) |
 | @linked404      | `0x47e31FF42663849A46741A55852936BE82Eb430C` | [(View on snowtrace.io)](https://snowtrace.io/address/0x47e31FF42663849A46741A55852936BE82Eb430C) |
-| @Weizenstar     | `0x4F7B1825D3ecb6EcB8904780fcd1EBDd948C8dB2` | [(View on snowtrace.io)](https://snowtrace.io/address/0x4F7B1825D3ecb6EcB8904780fcd1EBDd948C8dB2) |
 | @liamcow        | `0x07aF99634174d52098462Ed33C4299dFfC5EFC78` | [(View on snowtrace.io)](https://snowtrace.io/address/0x07aF99634174d52098462Ed33C4299dFfC5EFC78) |
 | @Eric_DEGEN     | `0x740F22aeA9D386342acE47e0b645FC10fB18723f` | [(View on snowtrace.io)](https://snowtrace.io/address/0x740F22aeA9D386342acE47e0b645FC10fB18723f) |
 | @DegenJoker     | `0x235EC0FCFd36612De4fd2c4912C9Cc5f56De06Ba` | [(View on snowtrace.io)](https://snowtrace.io/address/0x235EC0FCFd36612De4fd2c4912C9Cc5f56De06Ba) |

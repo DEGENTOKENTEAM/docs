@@ -20,8 +20,6 @@ In the true sense of DeFi, we choose to remain anonymous and are known only by o
 |:------------------------------------------------------|:--------------------------------|
 | [Daniel](https://t.me/DegenDevDaniel)                 | Tech Lead & Solidity Developer  |
 | [Rock](https://t.me/rockoor)                          | Front End Developer             |
-| [Weizenstar](https://t.me/Weizenstar)                 | Project Manager & Developer     |
-| [Degen Comedian](https://t.me/DegenComedian)          | Developer                       |
 | [Degen Trader](https://t.me/sonic_trader)             | Operations & Marketing          |
 | [Morty](https://t.me/linked404)                       | Operations                      |
 | [K9](https://t.me/DegenXportal)                       | Operations & Business           |
